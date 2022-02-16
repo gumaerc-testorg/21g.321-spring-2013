@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: c49a7b4c-b58d-4454-f4c2-1c8f59a927fa
 ---
@@ -51,7 +54,7 @@ None
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**1E PARTIE. QU'EST-CE QUE LA JEUNESSE?**
+**1{{< sup "E" >}} PARTIE. QU'EST-CE QUE LA JEUNESSE?**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +84,7 @@ Qu'est-ce qui différencie la jeunesse et l'enfance?
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**2E PARTIE. FAIRE SON EXPERIENCE**
+**2{{< sup "E" >}} PARTIE. FAIRE SON EXPERIENCE**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,7 +138,7 @@ None
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**3E PARTIE. ETRE UN JEUNE ADULTE**
+**3{{< sup "E" >}} PARTIE. ETRE UN JEUNE ADULTE**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +180,7 @@ Que ferez-vous à l'avenir pour rester jeunes?
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**4E PARTIE. L'EMERGENCE DES CULTURES « JEUNES »**
+**4{{< sup "E" >}} PARTIE. L'EMERGENCE DES CULTURES « JEUNES »**
 {{< tdclose >}}
 
 {{< trclose >}}

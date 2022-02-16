@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 8b0e5cf8-ca8b-92c3-093a-b17a828f78c4
 ---
@@ -37,7 +40,7 @@ Rimbaud, Arthur. "[Chanson de la plus haute tour](http://abardel.free.fr/petite_
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**1E PARTIE. QU’EST-CE QUE LA JEUNESSE?**
+**1{{< sup "E" >}} PARTIE. QU’EST-CE QUE LA JEUNESSE?**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +82,7 @@ Question: Qu'est-ce qui différencie la jeunesse et l'enfance?
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**2E PARTIE. FAIRE SON EXPERIENCE**
+**2{{< sup "E" >}} PARTIE. FAIRE SON EXPERIENCE**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,7 +150,7 @@ Visite au MFA
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**3E PARTIE. ETRE UN JEUNE ADULTE**
+**3{{< sup "E" >}} PARTIE. ETRE UN JEUNE ADULTE**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -206,7 +209,7 @@ Question: Que ferez-vous à l’avenir pour rester jeunes?
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**4E PARTIE. L’EMERGENCE DES CULTURES "JEUNES"**
+**4{{< sup "E" >}} PARTIE. L’EMERGENCE DES CULTURES "JEUNES"**
 {{< tdclose >}}
 
 {{< trclose >}}
