@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 8b0e5cf8-ca8b-92c3-093a-b17a828f78c4
 resourcetype: Document
 title: "Ode \xE0 Cassandre"
 uid: 91b410e4-72b1-397c-515a-c29eb7051d05

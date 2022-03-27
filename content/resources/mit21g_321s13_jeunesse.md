@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 8b0e5cf8-ca8b-92c3-093a-b17a828f78c4
 resourcetype: Document
 title: Jeunesse
 uid: ab69d9df-5385-ceec-a8b0-39d156119701
