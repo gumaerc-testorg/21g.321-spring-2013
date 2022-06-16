@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains descriptions of the assignments that students completed
+  during the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Assignments
 uid: c49a7b4c-b58d-4454-f4c2-1c8f59a927fa
 ---
 
-In addition to the [reading assignments]({{< baseurl >}}/pages/readings), students will complete an oral presentation, individual research paper, and weekly short-answer papers.
+In addition to the {{% resource_link 8b0e5cf8-ca8b-92c3-093a-b17a828f78c4 "reading assignments" %}}, students will complete an oral presentation, individual research paper, and weekly short-answer papers.
 
 Oral Presentation
 -----------------

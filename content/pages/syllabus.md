@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This page contains the syllabus for the course, with an overall description
+  of topics studied throughout the semester and an overview of the assignments and
+  grading policy.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

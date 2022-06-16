@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This page contains the readings (including required movies to watch and
+  songs to listen to) for the course, broken down by class session and with links
+  when possible.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -34,7 +37,7 @@ Introduction
 {{< tdclose >}}
 {{< tdopen >}}
 Rimbaud, Arthur. "[Chanson de la plus haute tour](http://abardel.free.fr/petite_anthologie/chanson_panorama.htm)." 1872.  
-———. ["Jeunesse." (PDF)]({{< baseurl >}}/resources/mit21g_321s13_jeunesse) _Les illuminations_, 1875.
+———. {{% resource_link ab69d9df-5385-ceec-a8b0-39d156119701 "\"Jeunesse.\" (PDF)" %}} _Les illuminations_, 1875.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +72,7 @@ Question: Utiliser un adjectif pour décrire votre génération et expliquer pou
 La vie devant soi?
 {{< tdclose >}}
 {{< tdopen >}}
-de Ronsard, Pierre. ["Mignonne allons voir si la rose." (PDF)]({{< baseurl >}}/resources/mit21g_321s13_ronsard) 1545.  
+de Ronsard, Pierre. {{% resource_link 91b410e4-72b1-397c-515a-c29eb7051d05 "\"Mignonne allons voir si la rose.\" (PDF)" %}} 1545.  
 Ferré, Léo. "[Jolie môme](http://www.paroles-musique.com/paroles-Leo_Ferre-Jolie_Mome-lyrics,p11149)". Chanson, 1960.  
 Gréco, Juliette. "Jolie môme." Chanson, 1968.  
 Film: [_À ma sœur_](http://www.allocine.fr/film/fichefilm_gen_cfilm=29378.html). Directed by Catherine Breillat. Color, 86 min. 2001.
@@ -240,7 +243,7 @@ Cultiver son indocilité
 {{< tdclose >}}
 {{< tdopen >}}
 Nizan, Paul. Chapitre I in _La Conspiration roman_. Gallimard, 1938.  
-Hocquenghem, Guy. _Lettre ouverte à ceux qui sont passés du col Mao au Rotary_. Agone, 1986, ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)pp. 44–7 (PDF). ISBN: 9782748900057.  
+Hocquenghem, Guy. _Lettre ouverte à ceux qui sont passés du col Mao au Rotary_. Agone, 1986, pp. 44–7 (PDF). ISBN: 9782748900057.  
 Carles, Pierre. _La sociologie est un sport de combat_. Extrait vidéo, 2001.  
 Saez, Damien. "[Jeune et con](http://www.paroles-musique.com/paroles-Saez-Jeune_Et_Con-lyrics,p487)." Chanson, 2001.  
 ———. "[Jeunesse lève-toi](http://www.paroles-musique.com/paroles-Saez-Jeunesse_Leve_Toi-lyrics,p32012)." Chanson, 2007.
