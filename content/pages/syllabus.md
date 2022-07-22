@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This page contains the syllabus for the course, with an overall description
+  of topics studied throughout the semester and an overview of the assignments and
+  grading policy.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: b6f8f452-e400-3abc-a2e7-a90f3e68f684
 ---
@@ -68,7 +73,7 @@ Arthur Rimbaud, "Chanson de la plus haute tour." (1872)
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**1E PARTIE. QU'EST-CE QUE LA JEUNESSE?**
+**1{{< sup "E" >}} PARTIE. QU'EST-CE QUE LA JEUNESSE?**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -109,7 +114,7 @@ Question: Qu'est-ce qui différencie la jeunesse et l'enfance?
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**2E PARTIE. FAIRE SON EXPERIENCE**
+**2{{< sup "E" >}} PARTIE. FAIRE SON EXPERIENCE**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +182,7 @@ Visite au MFA
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**3E PARTIE. ETRE UN JEUNE ADULTE**
+**3{{< sup "E" >}} PARTIE. ETRE UN JEUNE ADULTE**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -235,7 +240,7 @@ Question: Que ferez-vous à l'avenir pour rester jeunes?
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**4E PARTIE. L'EMERGENCE DES CULTURES "JEUNES"**
+**4{{< sup "E" >}} PARTIE. L'EMERGENCE DES CULTURES "JEUNES"**
 {{< tdclose >}}
 
 {{< trclose >}}
