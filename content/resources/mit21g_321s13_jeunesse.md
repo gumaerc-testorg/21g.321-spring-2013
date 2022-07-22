@@ -5,6 +5,7 @@ file: /courses/21g-321-childhood-and-youth-in-french-and-francophone-cultures-sp
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Jeunesse
 uid: ab69d9df-5385-ceec-a8b0-39d156119701
 ---
 Selected poems from Jean-Arthur Rimbaud's Les Illuminations (1875).
-

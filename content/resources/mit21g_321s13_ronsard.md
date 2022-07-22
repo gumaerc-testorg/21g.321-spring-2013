@@ -5,6 +5,7 @@ file: /courses/21g-321-childhood-and-youth-in-french-and-francophone-cultures-sp
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: "Ode \xE0 Cassandre"
 uid: 91b410e4-72b1-397c-515a-c29eb7051d05
 ---
 Pierre de Ronsard's Ode à Cassandre.
-
