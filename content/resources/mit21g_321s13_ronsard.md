@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "Pierre de Ronsard's Ode \xE0 Cassandre."
-file: /courses/21g-321-childhood-and-youth-in-french-and-francophone-cultures-spring-2013/91b410e472b1397c515ac29eb7051d05_MIT21G_321S13_ronsard.pdf
+file: /ol-ocw-studio-app/courses/21g-321-childhood-and-youth-in-french-and-francophone-cultures-spring-2013/91b410e472b1397c515ac29eb7051d05_MIT21G_321S13_ronsard.pdf
 file_size: 110097
 file_type: application/pdf
 learning_resource_types:
